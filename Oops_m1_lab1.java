@@ -1,4 +1,4 @@
-'''1)There is a telecommunication company called “Powered Air” who have approached 
+/*1)There is a telecommunication company called “Powered Air” who have approached 
 you to build their Interactive Voice Response (IVR) system. write a Java program and 
 be able to provide the following menu (given below):
 Note: User should provide an input for each menu display. Welcome to Powered Air 
@@ -11,7 +11,7 @@ c. Know number of free calls available. d. More
 7) Go back to Previous menu
 You are free to display your own messages in this IVR
 
-CODE:'''
+CODE:*/
 
 package CustomerCare;
 import java.util.Scanner;
