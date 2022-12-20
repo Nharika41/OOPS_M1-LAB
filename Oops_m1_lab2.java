@@ -1,10 +1,10 @@
-'''2)Create a class Rectangle. The class has attributes length and width. It should have
+/*2)Create a class Rectangle. The class has attributes length and width. It should have
 methods that calculate the perimeter and area of the rectangle. It should have read
 Attributes method to read length and width from user.
 o Hint: Area of rectangle = length * width, Perimeter of rectangle = 
 2*(length+width).
 
-CODE:'''
+CODE:*/
 
 //Rectangle.java//
 package AreaPeri;
